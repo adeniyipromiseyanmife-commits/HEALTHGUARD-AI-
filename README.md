@@ -1,5 +1,5 @@
 # 🛡️ HealthGuard AI
-### *They care for us. We care for them.*
+### *They save lives. We guard theirs.*
 
 > **3MTT NextGen Knowledge Showcase 2026** | FEED Pillars: Digital Inclusion & Education
 > Built by **Promise Yanmife Adeniyi** — 3MTT NextGen Fellow, Nigeria
@@ -145,8 +145,8 @@ AI was used meaningfully and purposefully — to accelerate development and impr
 ## 📬 Contact
 
 **Promise Yanmife Adeniyi**
-3MTT NextGen Fellow. AI/ML. FE/25/338214153· Nigeria · 2026
+3MTT NextGen Fellow · Nigeria · 2026
 
 ---
 
-*HealthGuard AI — They care for us. We care for them.*
+*HealthGuard AI — They save lives. We guard theirs.*
