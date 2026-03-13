@@ -10,10 +10,18 @@
 
 HealthGuard AI is a mobile-first **intelligent, predictive health companion** that adapts to who you are and how you live. It was named HealthGuard *AI* — not just HealthGuard — because it's designed to be generative, predictive, and context-aware. A market trader under the sun has different health risks than a civil servant in an air-conditioned office. A student under exam stress needs different guidance than an okada driver on a long route. HealthGuard AI understands this and responds accordingly.
 
-It addresses Nigeria's dual healthcare crisis:
+It addresses Nigeria's dual healthcare crisis — backed by real data:
 
-- **Healthcare professionals** (Doctors, Nurses, CHEWs) burn out silently — with no easy tool to self-monitor or get early support
-- **Patients and individuals** across all professions don't know what HMO plans they're entitled to in their state — so they delay or avoid care entirely
+**The Insurance Gap:**
+- Only **13% of Nigerians** have any form of health insurance — that is just 21.7 million people
+- **Over 190 million Nigerians** — 87% of the population — are completely uninsured
+- **79% of adult Nigerians** pay entirely out of pocket every time they fall sick
+- Free and subsidised schemes like BHCPF and OYSHIA exist — but most Nigerians have never heard of them
+
+**The Burnout Crisis:**
+- **69% of Nigerian healthcare workers** are experiencing burnout
+- Nigeria has only **2.9 doctors per 10,000 people** — far below the WHO recommendation of 17
+- Healthcare workers carry impossible workloads with no digital support system
 
 HealthGuard AI solves both problems under one platform, across **3 user modes** and **all 36 states + FCT**.
 
@@ -93,10 +101,17 @@ The Scan-to-Connect feature will further power this vision — when a healthcare
 
 ## 📊 Evidence Base
 
+**Primary Research:**
 - **Survey:** Healthcare Worker Experience Survey (anonymous, 6 sections)
 - **Target respondents:** Doctors, Nurses & CHEWs across Nigeria and globally
 - **Distribution:** WhatsApp networks, LinkedIn, professional healthcare groups
 - **Sections cover:** Personal background · Work environment · Burnout indicators · HMO awareness · Wellness habits · Feedback
+
+**Published Statistics Referenced:**
+- **69% burnout / 40% depression:** Ihejirika et al. — *Burnout and presenteeism among healthcare workers in Nigeria.* PubMed Central. [PMC7883015](https://pmc.ncbi.nlm.nih.gov/articles/PMC7883015/)
+- **87% uninsured / 13% coverage:** National Health Insurance Authority (NHIA) coverage data — Nigeria 2024/2025
+- **79% out-of-pocket payments:** World Health Organization / NHIA Nigeria health financing reports
+- **2.9 doctors per 10,000:** World Health Organization Global Health Workforce Statistics
 
 ---
 
