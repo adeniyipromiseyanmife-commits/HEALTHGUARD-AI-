@@ -29,8 +29,7 @@ HealthGuard AI solves both problems under one platform, across **3 user modes** 
 
 ## 🚀 Live Demo
 
-🔗 **[View the Interactive App Demo →](#)**
-> *(Replace this link with your hosted demo URL)*
+🔗 **[Watch the Demo Video →](https://www.capcut.com/view/7616816419522609665?workspaceId=7616491206310232084)**
 
 ---
 
